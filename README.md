@@ -32,18 +32,9 @@
 
 ---
 
-### 📘 Featured Projects
-
-🚀 **Employee Management System (Django + DRF)**  
-API-based system for managing employees, roles, authentication, and permissions.
-
-⚡ **FastAPI Microservice for Live Data Processing**  
-High-performance microservice with async endpoints and PostgreSQL.
-
-📝 **Task Automation System**  
-Python-based automation tool for daily job scheduling and reporting.
-
-> *(More projects will be added soon…)*
+### 🔧 Projects  
+I am currently organizing and uploading my professional and personal projects.  
+New repositories will be added soon — stay tuned!
 
 ---
 
@@ -56,8 +47,8 @@ Python-based automation tool for daily job scheduling and reporting.
 ---
 
 ### 📫 Reach Me At  
-📩 Email: **your-email@example.com**  
-💼 LinkedIn: *(you can add later)*
+📩 Email: **a.singh5742@gmail.com**  
+💼 LinkedIn: *www.linkedin.com/in/aman-singh-774729153*
 
 ---
 
